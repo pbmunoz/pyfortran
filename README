@@ -1,0 +1,8 @@
+Wrapping fortran in python
+
+Instructions
+- Run make in pyfortran$lib/fib
+- Optionally ran makeSignature.sh to see the generated
+  signature file.
+- Run pyfortran$sbin/test.py to see the generated docstring
+  and use the fortran subroutine
